@@ -32,11 +32,11 @@ int main()
 			textToAnalyze[i] == 'E' || textToAnalyze[i] == 'I' || textToAnalyze[i] == 'O' ||
 			textToAnalyze[i] == 'U')
 		{
-			++vowels; // Caused Error, Previously --, instead of ++, fixed
+			++vowels; // Caused Error, Previously --, instead of ++, fixed by changing the -- to ++
 		}
 		else if ((textToAnalyze[i] >= 'a'&& textToAnalyze[i] <= 'z') || (textToAnalyze[i] >= 'A'&& textToAnalyze[i] <= 'Z'))
 		{
-			++consonants; // Caused Error, Previously Commented out, fixed
+			++consonants; // Caused Error, Previously Commented out, fixed by removing the comment commands at the beginning.
 		}
 		else if (textToAnalyze[i] >= '0' && textToAnalyze[i] <= '9')
 		{
