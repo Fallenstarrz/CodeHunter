@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  CodeHunter.cpp
+c:\users\chrkoon\desktop\c++ projects\codehunter\codehunter\codehunter\codehunter.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  CodeHunter.vcxproj -> C:\Users\CHRKOON\Desktop\C++ Projects\CodeHunter\CodeHunter\Debug\CodeHunter.exe
+  CodeHunter.vcxproj -> C:\Users\CHRKOON\Desktop\C++ Projects\CodeHunter\CodeHunter\Debug\CodeHunter.pdb (Partial PDB)
